@@ -1,6 +1,6 @@
 {
   "name": "react-native-rem-stylesheet",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "rem-like stylesheet create for react-native",
   "main": "index.js",
   "scripts": {
